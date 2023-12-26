@@ -1,4 +1,4 @@
-input CarInput{
+input CarDTOInput{
     model:String
     color:String
     matricul:String
